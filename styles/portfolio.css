@@ -50,6 +50,7 @@ nav a {
 /* header related style */
 .header{
     background: #FFF8F3;
+    background-image: url(./images/header_bg.png);
 }
 
 .banner{
@@ -57,9 +58,7 @@ nav a {
     display: flex;
     align-items: center;
 }
-.banner-content{
-    
-}
+
 .banner .profile-picture{
     width: 500px;
 }
